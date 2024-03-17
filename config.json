@@ -1,0 +1,23 @@
+{
+    "promoType": "1m",
+    "cardName": "Emreng",
+    "line_1": "idk",
+    "city": "idk",
+    "state": "idk",
+    "postalcode": "31-539",
+    "inbuilt-promo-gen": {
+       "use-inbuilt-promo-gen": "off/doesnt work",
+       "capsolverkey": "off"
+    },
+    "webhookurl": "",
+    "country": "PL",
+    "proxySupport": "off",
+    "custom-branding": {
+        "custom-branding": "on",
+        "displayName": ".gg/syz"
+    },
+    "capsolver-support": {
+        "usecapsolver": "off",
+        "key": "off"
+    }
+}
